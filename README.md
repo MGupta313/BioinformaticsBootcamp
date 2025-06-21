@@ -1,4 +1,4 @@
-# BioinformaticsBootcamp
+# Bioinformatics Bootcamp
 Created by Mansi Gupta for Bioinformatics Bootcamp
 
 ## What is this?
