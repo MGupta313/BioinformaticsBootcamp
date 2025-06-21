@@ -5,10 +5,12 @@ Created by Mansi Gupta for Bioinformatics Bootcamp
 This repository contains required files for bootcamp walkthroughs and live demos.
 
 ## Table of Contents
-Requirements
+- [Requirements](#requirements)
+- [Input Files](#input-files)
+- [Contact info](#contact-info)
 
 ## Requirements
-You would need RStudio to get started with R. [Click here](https://posit.co/download/rstudio-desktop/) all select the appropriate installer to download RStudio!
+You would need RStudio to get started with R. [Click here](https://posit.co/download/rstudio-desktop/) and select the appropriate installer to download RStudio!
 Once you have downloaded RStudio please install the following packages, it'll save us a lot of time later:
 1) pheatmap
 2) ggplot2
